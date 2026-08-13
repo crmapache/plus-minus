@@ -1,0 +1,14 @@
+{
+  "name": "plus-minus",
+  "owner": {
+    "name": "Zolotoi",
+    "email": "mzpizote@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "plus-minus",
+      "source": "./",
+      "description": "Treat a chat reply of + as yes/do it and - as no/don't. No extra confirmation."
+    }
+  ]
+}

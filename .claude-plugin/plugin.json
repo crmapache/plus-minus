@@ -1,0 +1,20 @@
+{
+  "name": "plus-minus",
+  "version": "1.0.0",
+  "description": "Treat a chat reply of + as yes/do it and - as no/don't. No extra confirmation.",
+  "author": {
+    "name": "Zolotoi",
+    "email": "mzpizote@gmail.com"
+  },
+  "homepage": "https://github.com/crmapache/plus-minus",
+  "repository": "https://github.com/crmapache/plus-minus",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plus",
+    "minus",
+    "confirm",
+    "decision",
+    "yes-no"
+  ]
+}
