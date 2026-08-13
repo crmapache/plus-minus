@@ -1,5 +1,6 @@
 {
   "name": "plus-minus",
+  "description": "Treat a chat reply of + as yes/do it and - as no/don't.",
   "owner": {
     "name": "Zolotoi",
     "email": "mzpizote@gmail.com"
